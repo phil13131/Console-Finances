@@ -16,7 +16,7 @@ Summary:
 
 * The greatest decrease in losses (date and amount) over the entire period.
 
-[Live Application](https://mdyeates.github.io/Console-Finances/)
+[Live Application](https://github.com/phil13131/Console-Finances/)
 
 ## Installation
 
